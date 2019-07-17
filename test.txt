@@ -1,0 +1,9 @@
+var i:integer;
+
+BEGIN
+  read(i);
+
+  IF i=2 THEN
+    write(i);
+  ELSE write(1);
+END.
